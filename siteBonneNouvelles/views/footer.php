@@ -1,4 +1,5 @@
 		<div id="pied">
+            Jonathan Casier
 			<strong>Excellente journée qu'aujourd'hui le <?php echo $date ?></strong> :: 
 			<?php $time_end = microtime(true);
 				  $time = number_format(($time_end - $time_start)*1000,6);
@@ -6,6 +7,7 @@
 			<!-- ! adresse email non cryptée : spam possible -->
 	        <a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a>
 			<p id="copyright">Mise en page d'après
+                <a href="http://jwww.alsacreations.com/tutoriels/">Alsacréations</a>
 				Jonathan Casier
 			</p>
 		</div><!-- #pied -->
