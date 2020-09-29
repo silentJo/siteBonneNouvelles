@@ -8,7 +8,6 @@
 	        <a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a>
 			<p id="copyright">Mise en page d'après
                 <a href="http://jwww.alsacreations.com/tutoriels/">Alsacréations</a>
-				Jonathan Casier
 			</p>
 		</div><!-- #pied -->
 	</div><!-- #global -->
